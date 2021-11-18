@@ -7,6 +7,8 @@
 
 All novice traders have seen the effect of high-frequency trading where the trade execution happens in a fraction of seconds. Hedge funds today are able to de-ploy their trading strategies into algorithmic bots which makes decision-based on the AI models. I plan to take these similar strategies and apply them to the world of decentralized finance. As a goal, I want to make this model/output of this project accessible to all.
 
+## Goal: Decentralized Trading for all 
+
 >In a decentralized market, technology enables investors to deal directly with each other instead of operating from within a centralized exchange. Virtual markets that use decentralized currency, or cryptocurrencies, are examples of decentralized markets.
 
 https://www.investopedia.com/terms/d/decentralizedmarket.asp
