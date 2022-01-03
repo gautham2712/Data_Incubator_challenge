@@ -35,3 +35,6 @@ main.py https://github.com/Lumiwealth/lumibot/tree/master/getting_started
 
 ALPCA API Connection
 https://github.com/alpacahq/example-hftish
+
+Quant Traders
+https://www.quora.com/What-do-quantitative-traders-do
