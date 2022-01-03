@@ -1,6 +1,8 @@
 import logging
 from datetime import timedelta
 
+# Import Technical Analysis library
+
 import ta
 from lumibot.strategies.strategy import Strategy
 
