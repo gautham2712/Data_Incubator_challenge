@@ -1,6 +1,6 @@
-![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
+
 ## Data Incubator Capstone
-## Apply Traditional Trading Techniques to Defi
+## Apply Traditional Trading Techniques to Defi https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
 
 ![image](https://user-images.githubusercontent.com/13020120/151849867-b4f75dc3-ea86-4efe-9821-ed24d667aa6f.png)
 
