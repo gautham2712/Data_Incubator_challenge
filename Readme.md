@@ -1,3 +1,4 @@
+![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
 ## Data Incubator Capstone
 ## Apply Traditional Trading Techniques to Defi
 
