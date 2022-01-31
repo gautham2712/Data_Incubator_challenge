@@ -1,6 +1,8 @@
 ## Data Incubator Capstone
 ## Apply Traditional Trading Techniques to Defi
 
+![image](https://user-images.githubusercontent.com/13020120/151849867-b4f75dc3-ea86-4efe-9821-ed24d667aa6f.png)
+
 ### About me : https://www.linkedin.com/in/gauthamnk/
 
 ## **Background:** 
