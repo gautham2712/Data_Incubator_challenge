@@ -17,7 +17,8 @@ All novice traders have seen the effect of high-frequency trading where the trad
 
 https://www.investopedia.com/terms/d/decentralizedmarket.asp
 
-Defi Portfolio considered would have coins that are running on Etherum Blockchain. Objective of this portfolio is to rebalnce itself based on ETH performace and other Alpha factors. Model needs to adapt classifcal portfolio rebalacning techniques and apply it to DeFi portfolio. 
+
+Defi Portfolio considered would have coins that are running on Ethereum Blockchain. Objective of this portfolio is to rebalance itself based on ETH performance and other Alpha factors. Model needs to adapt classical portfolio rebalancing techniques and apply it to the DeFi portfolio. 
 
 
 ## Project Approach
@@ -27,8 +28,10 @@ Defi Portfolio considered would have coins that are running on Etherum Blockchai
 
 ## Repo
 
-This Repo has two forlder Notebooks and Stratergy.
-This repo has juypter notebooks which has intial explantory analysis. Two python files of the bollinger band and main  file that connects to the Alpca API to trade live based on the sratergy defined. 
+This Repo has two folder Notebooks and Strategy.
+Notebook folder has  two jupyter notebooks which has initial exploratory analysis and basic model using FB Prophet package
+
+Strategy folder has Two python files of the bollinger band and main  file that connects to the Alpca API to trade live based on the strategy defined. 
 
 ## Data
 
