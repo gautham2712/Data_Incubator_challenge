@@ -10,11 +10,15 @@
 
 All novice traders have seen the effect of high-frequency trading where the trade execution happens in a fraction of seconds. Hedge funds today are able to de-ploy their trading strategies into algorithmic bots which makes decision-based on the AI models. I plan to take these similar strategies and apply them to the world of decentralized finance. As a goal, I want to make this model/output of this project accessible to all.
 
+
 ## Goal: Decentralized Trading for All 
 
 >In a decentralized market, technology enables investors to deal directly with each other instead of operating from within a centralized exchange. Virtual markets that use decentralized currency, or cryptocurrencies, are examples of decentralized markets.
 
 https://www.investopedia.com/terms/d/decentralizedmarket.asp
+
+Defi Portfolio considered would have coins that are running on Etherum Blockchain. Objective of this portfolio is to rebalnce itself based on ETH performace and other Alpha factors. Model needs to adapt classifcal portfolio rebalacning techniques and apply it to DeFi portfolio. 
+
 
 ## Project Approach
 
@@ -29,6 +33,8 @@ This repo has juypter notebook which has intial explantory analysis. Two python 
 Data for the intial Analysis of project is from yfinance and Quandl. Minute level data is avaliable and also for the live data I use the ALPACA API to exrtract information
 
 For decentralised exchanges data can be found in the velow sources
+
+https://www.alphavantage.co/ 
 
 https://www.livecoinwatch.com/tools/api
 
