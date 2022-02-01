@@ -1,7 +1,6 @@
 
 ## Data Incubator Capstone
 ## Apply Traditional Trading Techniques to Defi 
-![example workflow]https://img.shields.io/badge/DeFI-4All-orange
 
 ![image](https://user-images.githubusercontent.com/13020120/151849867-b4f75dc3-ea86-4efe-9821-ed24d667aa6f.png)
 
@@ -19,7 +18,8 @@ https://www.investopedia.com/terms/d/decentralizedmarket.asp
 
 ## Project Approach
 
-![image](/Users/gauthamnk/Desktop/Screen Shot 2022-01-31 at 11.00.57 PM.png)
+<img width="1680" alt="Screen Shot 2022-01-31 at 11 00 57 PM" src="https://user-images.githubusercontent.com/13020120/151911439-a474f067-0092-4ce9-909c-926e3a75e316.png">
+
 
 ## Repo
 This repo has juypter notebook which has intial explantory analysis. Two python files of the bollinger band and main  file that connects to the Alpca API to trade live based on the sratergy defined. 
