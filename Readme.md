@@ -17,6 +17,10 @@ All novice traders have seen the effect of high-frequency trading where the trad
 
 https://www.investopedia.com/terms/d/decentralizedmarket.asp
 
+## Project Approach
+
+![image](/Users/gauthamnk/Desktop/Screen Shot 2022-01-31 at 11.00.57 PM.png)
+
 ## Repo
 This repo has juypter notebook which has intial explantory analysis. Two python files of the bollinger band and main  file that connects to the Alpca API to trade live based on the sratergy defined. 
 
