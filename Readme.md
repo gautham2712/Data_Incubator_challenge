@@ -26,7 +26,9 @@ Defi Portfolio considered would have coins that are running on Etherum Blockchai
 
 
 ## Repo
-This repo has juypter notebook which has intial explantory analysis. Two python files of the bollinger band and main  file that connects to the Alpca API to trade live based on the sratergy defined. 
+
+This Repo has two forlder Notebooks and Stratergy.
+This repo has juypter notebooks which has intial explantory analysis. Two python files of the bollinger band and main  file that connects to the Alpca API to trade live based on the sratergy defined. 
 
 ## Data
 
